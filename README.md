@@ -40,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="python" width="40" height="40"/> 
 </a>
 <a href="https://opencv.org/" class="custom-logo-link" rel="home" aria-current="page">
-    <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" class="custom-logo" alt="OpenCV" decoding="async" width="40" height="40" >
+    <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" class="custom-logo" alt="OpenCV" decoding="async" width="37" height="37" >
 </a>
 
 </p>
